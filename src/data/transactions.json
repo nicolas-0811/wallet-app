@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "type": "Payment",
+    "amount": 120,
+    "name": "IKEA",
+    "description": "Furniture purchase",
+    "date": "2025-03-20",
+    "pending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": 2,
+    "type": "Credit",
+    "amount": 45,
+    "name": "Amazon",
+    "description": "Electronics purchase",
+    "date": "2025-03-19",
+    "pending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": 3,
+    "type": "Payment",
+    "amount": 250,
+    "name": "Target",
+    "description": "Grocery shopping",
+    "date": "2025-03-18",
+    "pending": false,
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": 4,
+    "type": "Credit",
+    "amount": 75,
+    "name": "Spotify",
+    "description": "Music subscription",
+    "date": "2025-03-17",
+    "pending": true,
+    "authorizedUser": null
+  },
+  {
+    "id": 5,
+    "type": "Payment",
+    "amount": 35,
+    "name": "Netflix",
+    "description": "Streaming subscription",
+    "date": "2025-03-16",
+    "pending": false,
+    "authorizedUser": null
+  },
+  {
+    "id": 6,
+    "type": "Credit",
+    "amount": 10,
+    "name": "Uber Eats",
+    "description": "Food delivery",
+    "date": "2025-03-15",
+    "pending": false,
+    "authorizedUser": "Jane Smith"
+  },
+  {
+    "id": 7,
+    "type": "Payment",
+    "amount": 150,
+    "name": "Apple Store",
+    "description": "Phone purchase",
+    "date": "2025-03-14",
+    "pending": true,
+    "authorizedUser": null
+  },
+  {
+    "id": 8,
+    "type": "Credit",
+    "amount": 200,
+    "name": "Walmart",
+    "description": "Home essentials",
+    "date": "2025-03-13",
+    "pending": false,
+    "authorizedUser": "Sarah Lee"
+  },
+  {
+    "id": 9,
+    "type": "Payment",
+    "amount": 500,
+    "name": "Nike",
+    "description": "Sporting goods",
+    "date": "2025-03-12",
+    "pending": false,
+    "authorizedUser": "David Clark"
+  },
+  {
+    "id": 10,
+    "type": "Credit",
+    "amount": 60,
+    "name": "Best Buy",
+    "description": "Gadget purchase",
+    "date": "2025-03-11",
+    "pending": false,
+    "authorizedUser": null
+  }
+]
